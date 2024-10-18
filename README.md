@@ -3,12 +3,14 @@ Hack html-2
 Alumno Adonis Daller
 
 
-|Hacks | Details | 
-|----------|---------|
-| H-2      | Position or Free Mode |
+|Hacks   H-2 | 
+|----------------------------------------------------------|
+| Details                                                  |
+|                                                          |
+| Crear el hack html mediante el uso de float |
+|    - se prohibe el uso de position |
+|    - se prohibe el uso de flex |
 
-creacion del hack 2 siguiendo las normativas establecidas
-haceindo uso del float
 
 
 PULL_REQUEST_TEMPLATE
